@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Pablo Basso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,py,bootstrap,tailwind,php,js,github,git,cpp,vscode,=10" />
   </a>
 </p>
-
+<div align="left">
 <h2  align="center">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pablobasso25)
