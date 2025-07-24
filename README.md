@@ -29,9 +29,14 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,py,bootstrap,tailwind,php,js,github,git,cpp,vscode,=10" />
   </a>
 </p>
-<div align="left">
+<div>
 <h2  align="center">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pablobasso25)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=material-palenight)](https://github.com/pablobasso25)
+<a href="https://github.com/pablobasso25">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="400"/>
+</a>
+
+<a href="https://github.com/pablobasso25">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=material-palenight" width="400"/>
+</a>
 </div>
