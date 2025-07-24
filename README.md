@@ -22,10 +22,16 @@
 [![image](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pablobasso25/)
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,react,py,bootstrap,tailwind,php,js,github,git,cpp,vscode,=10" />
+  <a align="center" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,py,bootstrap,tailwind,php,js,github,git,cpp,vscode,=10" />
   </a>
 </p>
+
+<h2  align="center">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/pablobasso25)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=material-palenight)](https://github.com/pablobasso25)
+</div>
