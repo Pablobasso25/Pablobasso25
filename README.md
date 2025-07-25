@@ -1,6 +1,7 @@
 
 <h1 align="center">
   👨‍💻 Hi , I'm Pablo Basso — Full Stack Developer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
 
 
@@ -9,10 +10,6 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"/>
 </picture>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pablobasso25&label=Profile%20views&color=0e75b6&style=flat" alt="pablobasso25" />
-</p>
 
 <br>
 
