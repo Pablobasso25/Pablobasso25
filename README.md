@@ -5,10 +5,6 @@
 </h1>
 
 
-<picture>
-  <source media="(max-width: 768px)" srcset="">
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px"/>
-</picture>
 
 <div style="clear: both;"></div>
 <br>
@@ -36,7 +32,7 @@
 ## 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,bootstrap,tailwind,github,git,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,bootstrap,tailwind,github,git,vscode" />
 </p>
 
 ---
