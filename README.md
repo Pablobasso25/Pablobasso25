@@ -38,5 +38,13 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/pablobasso25">
+    <img src="https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="400"/>
+  </a>
 
+  <a href="https://github.com/pablobasso25">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=material-palenight" width="400"/>
+  </a>
+</div>
 
