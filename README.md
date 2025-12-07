@@ -1,50 +1,49 @@
-
 <h1 align="center">
-  👨‍💻 Hi , I'm Pablo Basso — Full Stack Developer
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi 👋 I'm Pablo Basso
 </h1>
 
+<h3 align="center">Full Stack Developer from Argentina 🇦🇷</h3>
 
-
-<div style="clear: both;"></div>
-<br>
-
-
-- 💻 I'm a Full Stack Web Developer with a passion for building useful and elegant solutions.  
-- 🚀 I use a wide variety of technologies and frameworks to create complete applications.  
-- 🤝 I'm always open to learning new tools and collaborating on meaningful projects.  
-- 📬 Feel free to reach out—I'm happy to help!  
-- 📄 Currently seeking new job opportunities → [MY RESUME](http://)  
-- 🌐 Visit my portfolio → [MY WEBSITE](https://pablobasso25.github.io/Portfolio/)
-
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pablo-basso-40b93b34b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:produtor.pablobasso25@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/pablobasso25/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
----
-
-## 🧰 Languages and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,py,bootstrap,tailwind,github,git,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/pablobasso25">
-    <img src="https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="400"/>
-  </a>
+  
 
-  <a href="https://github.com/pablobasso25">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=material-palenight" width="400"/>
-  </a>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4A90E2?style=for-the-badge)](https://pablobasso25.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pablo-basso-40b93b34b/)
+  
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🚀 Full Stack Developer
+- 💼 Graduate from **RollingCode School** Full Stack
+- 🌱 Currently learning **TypeScript** and **Next.js**
+- 💻 Specialized in **JavaScript**, **React**, **Node.js**, and **MongoDB**
+- 🔍 **Open to work** - Looking for full-time opportunities
+- 📧 Reach me at: **pablobasso25@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
