@@ -16,8 +16,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🚀 Full Stack Developer
 - 💼 Graduate from **RollingCode School** Full Stack
 - 🌱 Currently learning **TypeScript** and **Next.js**
 - 💻 Specialized in **JavaScript**, **React**, **Node.js**, and **MongoDB**
