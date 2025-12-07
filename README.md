@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
   Hi 👋 I'm Pablo Basso
-</h1>
+</h2>
 
 <h3 align="center">Full Stack Developer from Argentina 🇦🇷</h3>
 
@@ -44,7 +44,7 @@
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
