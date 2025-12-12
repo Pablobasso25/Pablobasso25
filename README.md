@@ -41,9 +41,10 @@
 
 ### 🔥 Contribution Streak
 
-<div align="center">
- ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
+<div align="center">
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
