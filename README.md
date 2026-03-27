@@ -19,7 +19,7 @@
 - 💼 Graduate from **RollingCode School** Full Stack
 - 🌱 Currently learning **TypeScript** and **Next.js**
 - 💻 Specialized in **JavaScript**, **React**, **Node.js**, and **MongoDB**
-- 🔍 **Open to work** - Looking for full-time opportunities
+- 🔍 **Open to work** - Looking for full time opportunities
 - 📧 Reach me at: **pablobasso25@gmail.com**
 
 ---
