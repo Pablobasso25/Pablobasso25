@@ -28,12 +28,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-### 🔥 Contribution Streak
-
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pablobasso25&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pablobasso25&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
-</div>
-
