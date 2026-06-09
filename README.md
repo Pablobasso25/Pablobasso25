@@ -1,8 +1,6 @@
-<h2 align="center">
-  Hi 👋 I'm Pablo Basso
-</h2>
 
-<h3 align="center">Full Stack Developer from Argentina 🇦🇷</h3>
+
+<h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
 
